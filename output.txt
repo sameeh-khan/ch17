@@ -1,0 +1,137 @@
+Out[5]: 
+        first    last
+id                   
+1        Paul  Deitel
+2      Harvey  Deitel
+3       Abbey  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+
+Out[6]: 
+         isbn                             title  edition copyright
+0  0135404673     Intro to Python for CS and DS        1      2020
+1  0132151006     Internet & WWW How to Program        5      2012
+2  0134743350               Java How to Program       11      2018
+3  0133976890                  C How to Program        8      2016
+4  0133406954  Visual Basic 2012 How to Program        6      2014
+5  0134601548          Visual C# How to Program        6      2017
+6  0136151574         Visual C++ How to Program        2      2008
+7  0134448235                C++ How to Program       10      2017
+8  0134444302            Android How to Program        3      2017
+9  0134289366         Android 6 for Programmers        3      2016
+
+Out[8]: 
+   id        isbn
+0   1  0134289366
+1   2  0134289366
+2   5  0134289366
+3   1  0135404673
+4   2  0135404673
+
+Out[9]: 
+       first    last
+0       Paul  Deitel
+1     Harvey  Deitel
+2      Abbey  Deitel
+3        Dan   Quirk
+4  Alexander    Wald
+
+Out[10]: 
+                           title  edition copyright
+0  Intro to Python for CS and DS        1      2020
+1            Java How to Program       11      2018
+2       Visual C# How to Program        6      2017
+3             C++ How to Program       10      2017
+4         Android How to Program        3      2017
+
+Out[11]: 
+     first    last
+id                
+1     Paul  Deitel
+2   Harvey  Deitel
+3    Abbey  Deitel
+
+Out[12]: 
+    first    last
+id               
+3   Abbey  Deitel
+
+Out[13]: 
+                              title
+0         Android 6 for Programmers
+1            Android How to Program
+2                  C How to Program
+3                C++ How to Program
+4     Internet & WWW How to Program
+5     Intro to Python for CS and DS
+6               Java How to Program
+7  Visual Basic 2012 How to Program
+8          Visual C# How to Program
+9         Visual C++ How to Program
+
+Out[14]: 
+        first    last
+id                   
+3       Abbey  Deitel
+2      Harvey  Deitel
+1        Paul  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+
+Out[15]: 
+        first    last
+id                   
+5   Alexander    Wald
+4         Dan   Quirk
+3       Abbey  Deitel
+2      Harvey  Deitel
+1        Paul  Deitel
+
+Out[16]: 
+         isbn                             title  edition copyright
+0  0134444302            Android How to Program        3      2017
+1  0133976890                  C How to Program        8      2016
+2  0134448235                C++ How to Program       10      2017
+3  0132151006     Internet & WWW How to Program        5      2012
+4  0134743350               Java How to Program       11      2018
+5  0133406954  Visual Basic 2012 How to Program        6      2014
+6  0134601548          Visual C# How to Program        6      2017
+7  0136151574         Visual C++ How to Program        2      2008
+
+Out[20]: 
+        first    last
+id                   
+1        Paul  Deitel
+2      Harvey  Deitel
+3       Abbey  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+6         Sue     Red
+
+Out[22]: 1
+
+Out[23]: 
+        first    last
+id                   
+1        Paul  Deitel
+2      Harvey  Deitel
+3       Abbey  Deitel
+4         Dan   Quirk
+5   Alexander    Wald
+6         Sue     Red
+
+Out[24]: 
+                 title  edition
+0  Java How to Program       11
+1   C++ How to Program       10
+2     C How to Program        8
+
+Out[25]: 
+Empty DataFrame
+Columns: [id, first, last]
+Index: []
+
+Out[26]: 
+         isbn                          title  edition copyright
+0  0134289366      Android 6 for Programmers        3      2016
+1  0135404673  Intro to Python for CS and DS        1      2020
